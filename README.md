@@ -10,7 +10,7 @@ Interface simples, assertiva e intuitiva.
 
 Ferramentas: (PHP, SQLite e JavaScript)
 
-Como Usar?
+# Como Usar?
 
 -Clone o repositório para sua pasta local (ex: htdocs no XAMPP).
 
