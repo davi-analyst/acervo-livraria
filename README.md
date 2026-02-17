@@ -9,6 +9,7 @@ PHP, SQLite e JavaScript) & Sistema de Gerenciamento de Tarefas (PHP, SQLite e J
 
 Como Usar?
 
--Clone o repositório para sua pasta local (ex: htdocs no XAMPP). 
+-Clone o repositório para sua pasta local (ex: htdocs no XAMPP).
+
 -Inicie o servidor Apache no seu painel de controle (XAMPP/Wamp/Laragon).
 -Acesse no navegador: http://localhost/nome-da-sua-pasta/
