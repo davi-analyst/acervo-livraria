@@ -7,7 +7,8 @@ Projeto prático desenvolvido para consolidar conhecimentos fundamentais de inte
 Uma aplicação web simples de "Livraria" que permite gerenciar um acervo de livros. O sistema realiza as operações básicas de um CRUD (Create, Read, Update, Delete)
 
 Interface simples, assertiva e intuitiva.
-Ferramentas: (PHP, SQLite e JavaScript) 
+
+Ferramentas: (PHP, SQLite e JavaScript)
 
 Como Usar?
 
