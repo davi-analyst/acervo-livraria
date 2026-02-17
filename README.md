@@ -8,6 +8,7 @@ Uma aplicação web simples de "Livraria" que permite gerenciar um acervo de liv
 PHP, SQLite e JavaScript) & Sistema de Gerenciamento de Tarefas (PHP, SQLite e JavaScript)
 
 Como Usar?
+
 -Clone o repositório para sua pasta local (ex: htdocs no XAMPP).
 -Inicie o servidor Apache no seu painel de controle (XAMPP/Wamp/Laragon).
 -Acesse no navegador: http://localhost/nome-da-sua-pasta/
