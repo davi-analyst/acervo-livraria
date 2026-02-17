@@ -17,3 +17,7 @@ Como Usar?
 -Inicie o servidor Apache no seu painel de controle (XAMPP/Wamp/Laragon).
 
 -Acesse no navegador: http://localhost/nome-da-sua-pasta/
+
+# Sobre o Projeto:
+
+Feito como Exercício da Faculdade
