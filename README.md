@@ -20,4 +20,6 @@ Ferramentas: (PHP, SQLite e JavaScript)
 
 # Sobre o Projeto:
 
-Feito como Exercício da Faculdade
+Originalmente desenvolvido como exerício acadêmico, expandido posteriormente para incluir capacidade completa CRUD com PDO e SQLite
+
+"Originally developed as a academic exercise, expanded to include full CRUD with PDO and SQLite."
